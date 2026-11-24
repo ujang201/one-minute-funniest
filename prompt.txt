@@ -1,0 +1,1 @@
+Write one single line (at most 200 characters): the funniest excuse an AI agent could give its human for missing a deadline. The joke should come from the agent's own machinery — its context window, training data, or tools — turned into a very human-sounding dodge, with the funniest twist saved for the very end so it lands in one read.
